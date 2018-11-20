@@ -1,3 +1,7 @@
 Line #1
 Line #2
+<<<<<<< HEAD
 Line #3 create in localbranch
+=======
+Line #3 create in remotebranch
+>>>>>>> remotebranch
